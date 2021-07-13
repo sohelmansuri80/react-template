@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Clean Template from scratch",
   "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sohelmansuri80/react-template"
+  },
   "dependencies": {
     "@popperjs/core": "^2.9.2",
     "@reduxjs/toolkit": "^1.6.0",
